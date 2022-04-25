@@ -12,3 +12,4 @@ All'interno dell'applicazione troverai un counter di colore bianco con un numero
 
 
 Ecco il link dove poter visionare il terminale:
+<a target="_blank">https://micromdev.github.io/Counter/</a>
