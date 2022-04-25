@@ -11,5 +11,5 @@ All'interno dell'applicazione troverai un counter di colore bianco con un numero
 <img width="436" alt="Counter" src="https://user-images.githubusercontent.com/93792452/165080489-fa9f6617-efd5-4023-ace3-3731f788ec4c.png">
 
 
-Ecco il link dove poter visionare il terminale:
-<a target="_blank">https://micromdev.github.io/Counter/</a>
+Ecco il link dove poter visionare il terminale:<br>
+<a>https://micromdev.github.io/Counter/</a>
