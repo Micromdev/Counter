@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background: rgb(184, 184, 184);
+    background-attachment: fixed;
+}
+
+.btn {
+    line-height: 34px;
+    font-size: 20px;
+    transition: 0.2s;
+
+	transform: scale(1);
+}
+
+.btn:hover{
+    font-size:23px;
+    opacity: 0.2;
+    border-color: rgb(184, 184, 184, .75);
+    color: #fff;
+    animation: none;
+}
+
+.fa-minus-circle, .fa-plus-circle{
+    pointer-events: none;
+}
+
+.vertical-center{
+    min-height:100vh;
+    display: flex;
+    align-items:center;
+}
+
+#number{
+    font-size: 8rem;
+}
